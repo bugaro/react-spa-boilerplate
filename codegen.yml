@@ -1,0 +1,9 @@
+schema: "https://api.spacex.land/graphql"
+documents: "./src/services/**/*.gql.ts"
+watch: true
+generates:
+  ./src/graphql/generatedModel.ts:
+    plugins:
+      - "typescript"
+      - "typescript-operations"
+      - "typescript-graphql-request"

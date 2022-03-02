@@ -1,0 +1,4 @@
+public/
+*.yml
+*.md
+/graphql/generatedModel.ts
