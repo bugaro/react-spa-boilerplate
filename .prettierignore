@@ -2,4 +2,4 @@ public/
 *.yml
 *.md
 /graphql/generatedModel.ts
-/build
+/buildgit push -u origin main
