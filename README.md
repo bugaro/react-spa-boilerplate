@@ -13,7 +13,7 @@
 
 ## HOW TO USE
 ### Clone project
-`git@github.com:bugaro/react-spa-boilerplate.git`
+`git clone git@github.com:bugaro/react-spa-boilerplate.git`
 ### Install dependencies
 `docker-compose -f docker-compose.install.yml up`
 ### Codegen
