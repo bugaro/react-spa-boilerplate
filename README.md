@@ -22,5 +22,7 @@
 `docker-compose -f docker-compose.test.yml up`
 ### Run development
 `docker-compose -f docker-compose.dev.yml up`
+
+**open:** [http://localhost:3000](http://localhost:3000)
 ### Run build
 `docker-compose -f docker-compose.build.yml up`
